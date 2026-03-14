@@ -156,11 +156,6 @@ Ideas to level this up further:
 
 ---
 
-## 📄 License
-
-MIT — use it, fork it, ship it.
-
----
 
 ## 🙏 Built With
 
